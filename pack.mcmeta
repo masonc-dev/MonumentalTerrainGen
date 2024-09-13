@@ -1,0 +1,24 @@
+{
+  "pack": {
+    "supported_formats": [
+      9,
+      18
+    ],
+    "pack_format": 15,
+    "description": [
+      {
+        "text": "Monumental v1.0.0-alpha.1",
+        "color": "#b0b0b0"
+      },
+      "\n",
+      {
+        "text": "A fork of ",
+        "color": "#888888"
+      },
+      {
+        "text": "Tectonic",
+        "color": "#ca78e4"
+      }
+    ]
+  }
+}
